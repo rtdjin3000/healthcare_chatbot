@@ -14,15 +14,21 @@
 
 Create a new environment 
 ```
-conda create -p venv python==3.7 -y
+conda create -p venv python==3.11 -y
 ```
 
 Git Commit
 ```
 git add --all
+git add .
 ```
 
-Git Remove venv
+Git Remove venv files
 ```
 git rm -rf ./venv
+```
+
+Git Push
+```
+git push origin main --force
 ```
