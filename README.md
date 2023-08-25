@@ -32,3 +32,4 @@ Git Push
 ```
 git push origin main --force
 ```
+![image](https://github.com/rtdjin3000/healthcare_chatbot/assets/42611408/049de38c-cc8b-4560-944d-8ac7ddcc5740)
